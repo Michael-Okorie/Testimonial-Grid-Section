@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [View on Github(https://www.frontendmentor.io/solutions/responsive-testimonials-grid-using-css-grid-and-flexbox-XXXX)
-- **Live Site URL**: [Live Demo](https://yourusername.github.io/testimonials-grid-section/)
+- **Solution URL**: [View on Github](git@github.com:Michael-Okorie/Testimonial-Grid-Section.git)
+- **Live Site URL**: [Live Demo](https://michael-okorie.github.io/Testimonial-Grid-Section/)
 
 ---
 
