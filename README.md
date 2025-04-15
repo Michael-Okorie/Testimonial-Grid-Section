@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [View on Github](git@github.com:Michael-Okorie/Testimonial-Grid-Section.git)
+- **Solution URL**: [View on Github](https://github.com/Michael-Okorie/Testimonial-Grid-Section.git)
 - **Live Site URL**: [Live Demo](https://michael-okorie.github.io/Testimonial-Grid-Section/)
 
 ---
